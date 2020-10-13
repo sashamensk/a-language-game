@@ -1,6 +1,6 @@
 ## Task description
 
-Implement a [TranslateToPigLatin]() method that translates from English to `Rubbish`. It obeys a few simple following rules:
+Implement a [TranslateToPigLatin]() method that translates from English to [Pig Latin Language](https://en.wikipedia.org/wiki/Pig_Latin). It obeys a few simple following rules:
 1. If a word begins with a vowel sound, add an `"ay"` sound to the end of the word. Please note that `"xr"` and `"yt"` at the beginning of a word make vowel sounds (e.g. `"xray" -> "xrayay"`, `"yttria" -> "yttriaay"`).
 1. If a word begins with a consonant sound, move it to the end of the word and then add an `"ay"` sound to the end of the word. Consonant sounds can be made up of multiple consonants, a.k.a. a consonant cluster (e.g. `"chair" -> "airchay"`).
 1. If a word starts with a consonant sound followed by `"qu"`, move it to the end of the word, and then add an `"ay"` sound to the end of the word (e.g. `"square" -> "aresquay"`).
