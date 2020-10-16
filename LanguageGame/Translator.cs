@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace LanguageGame
 {
@@ -7,8 +7,8 @@ namespace LanguageGame
         /// <summary>
         /// Translates from English to Pig Latin. Pig Latin obeys a few simple following rules:
         /// - if word starts with vowel sounds, the vowel is left alone, and most commonly 'yay' is added to the end;
-        /// - If word starts with consonant sounds or consonant clusters, all letters before the initial vowel are
-        /// placed at the end of the word sequence. Then, "ay" is added.
+        /// - if word starts with consonant sounds or consonant clusters, all letters before the initial vowel are
+        ///   placed at the end of the word sequence. Then, "ay" is added.
         /// Note: If a word begins with a capital letter, then its translation also begins with a capital letter,
         /// if it starts with a lowercase letter, then its translation will also begin with a lowercase letter.
         /// </summary>
