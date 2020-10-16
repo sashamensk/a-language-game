@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageGame", "LanguageGame\LanguageGame.csproj", "{2BF26424-8992-4641-B6F5-F9E016CDE22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageGame.Tests", "LanguageGame.Tests\LanguageGame.Tests.csproj", "{AA5EC6FF-5616-4E2A-BEEB-4029B93DFBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BF26424-8992-4641-B6F5-F9E016CDE22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF26424-8992-4641-B6F5-F9E016CDE22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF26424-8992-4641-B6F5-F9E016CDE22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF26424-8992-4641-B6F5-F9E016CDE22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5EC6FF-5616-4E2A-BEEB-4029B93DFBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5EC6FF-5616-4E2A-BEEB-4029B93DFBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5EC6FF-5616-4E2A-BEEB-4029B93DFBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5EC6FF-5616-4E2A-BEEB-4029B93DFBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
