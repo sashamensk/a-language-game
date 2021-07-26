@@ -103,7 +103,7 @@ namespace LanguageGame
 
                     if (i == word.Length - 1)
                     {
-                        word += "ay";
+                        word = string.Concat(word, "ay");
                         break;
                     }
                 }
